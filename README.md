@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 🤝 I’m looking for **internship**
-
 - 📫 How to reach me **jatinbumrah143@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
